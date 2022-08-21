@@ -26,13 +26,14 @@ header {
 
 .sidebar {
     width: 20%;
+    white-space: nowrap;
 }
 
 .sidebar-element {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 3px;
-    padding-right: 7px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 3%;
+    padding-right: 7%;
     
     text-align: left;
 }
