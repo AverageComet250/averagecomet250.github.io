@@ -17,6 +17,9 @@ p {
 }
 
 header {
+    font-size: 30px;
+
+
     text-align: center;
     background-color: rgba(220,20,60, 70);
 }
