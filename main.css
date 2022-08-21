@@ -11,10 +11,12 @@
 header {
     h1 {
         font-size: 100%;
+        text-align: center;
     }
 
     p {
         font-size: 50%;
+        text-align: center;
     }
 
     text-align: center;
