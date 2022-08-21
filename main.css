@@ -9,6 +9,14 @@
 }
 
 header {
+    h1 {
+        font-size: 100%;
+    }
+
+    p {
+        font-size: 50%;
+    }
+
     text-align: center;
     background-color: rgba(220,20,60, 70);
 }
