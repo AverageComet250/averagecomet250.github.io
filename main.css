@@ -1,3 +1,14 @@
 * {
-    all: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+header {
+    text-align: center;
+    background-color: rgba(220,20,60, 70);
 }
